@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../my-app5"
+		},
+		{
+			"path": "../Neos Ödev 4.04.2023"
+		},
+		{
+			"path": "../Neos Ödev 4.04.2023/Ödev1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Neos-BITIRME",
+		"liveServer.settings.port": 5501
+	}
+}
