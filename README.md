@@ -1,4 +1,4 @@
-
+# Web Scrapping
 
 Hi,today i will show you web scrapping. Web scraping, also known as "web data extraction" or "web harvesting", is a technique that involves collecting data from websites. This process involves using software tools to automatically extract information from web pages, such as text, images, and other structured data. The extracted data can then be analyzed or used for various purposes, such as research, data analysis, or building applications. Web scraping can be performed manually by copying and pasting data from web pages, but it is more commonly done using automated tools that can quickly and efficiently extract large amounts of data from multiple sources. However, it is important to note that web scraping must be done ethically and in compliance with applicable laws and website terms of service.
 
