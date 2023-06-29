@@ -14,7 +14,7 @@ npm install puppeteer
 To scrape data between specific div tags, you need to inspect the HTML source code of the webpage and locate the div tags that contain the data you want to scrape. Div tags are commonly used to define sections of a webpage.
 
 The text or other HTML tags that are located between the opening tag (<div>) and closing tag (</div>) of the div tag represent the data between specific div tags.
-
+ 
 To extract this data, you can use an XPath expression or a CSS selector in your web scraping program to select all the text within a specific div tag.
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*VhgoMo7AO2yIbI_er7pkoA.png">
